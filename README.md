@@ -88,7 +88,8 @@ sns.catplot(x="Survived",hue="Gender",data=df,kind="count")
 ```
 sns.catplot(x="Survived", hue="Gender", data=df,kind="box")
 ```
-......................................................................................
+
+![WhatsApp Image 2025-08-22 at 15 57 50_01d410e6](https://github.com/user-attachments/assets/e9f19bfc-fb08-49b1-bc0e-6c7cf9c4266e)
 
 ```
 sns.boxplot(data=df)
